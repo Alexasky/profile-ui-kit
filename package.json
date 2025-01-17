@@ -2,6 +2,9 @@
   "name": "@Alexasky/ui-kit",
   "private": true,
   "version": "0.0.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@Alexasky"
+  },
   "type": "module",
   "engines": {
     "node": ">=18.18.2",
